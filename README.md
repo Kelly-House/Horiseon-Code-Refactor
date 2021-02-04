@@ -8,7 +8,7 @@ A website that offers SEO services, online reputation management and social medi
 * CSS
 
 ## Website
-https://kelly-house.github.io/Horiseon-Code-Refactor/Develop/index.html
+https://kelly-house.github.io/Horiseon-Code-Refactor
 
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/75660592/106826016-ddc8e900-663a-11eb-85eb-a12625f96458.png)
